@@ -1,0 +1,14 @@
+{
+  "parts": [
+    {
+      "name": "main",
+      "client_hooks": {
+        "documentReady": "ep_switch_pad/static/js/index"
+      },
+      "hooks": {
+        "eejsBlock_editbarMenuLeft": "ep_switch_pad/index"
+      }
+    }
+  ]
+}
+
