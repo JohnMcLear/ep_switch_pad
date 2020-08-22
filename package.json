@@ -1,7 +1,7 @@
 {
   "description": "Fast switch to another pad without reloading the page",
   "name": "ep_switch_pad",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": {
     "name": "John McLear",
     "email": "john@mclear.co.uk"
